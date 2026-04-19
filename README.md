@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/readme/boot-splash.png" alt="YZN-OS boot sequence and logo" width="920">
+  <img src="<img src="https://yazanmwk.vercel.appdocs/readme/boot-splash.png" alt="YZN-OS boot sequence and logo" width="920">
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@ The first thing visitors see is not a hero section—it’s a **kernel-style boo
 ### Desktop, wallpaper, and welcome flow
 
 <p align="center">
-  <img src="docs/readme/desktop-welcome.png" alt="YZN-OS desktop with Welcome window" width="920">
+  <img src="<img src="https://yazanmwk.vercel.appdocs/readme/desktop-welcome.png" alt="YZN-OS desktop with Welcome window" width="920">
 </p>
 
 - **Live desktop** — Wallpaper, desktop icons, and a persistent **taskbar** with clock and window buttons.
@@ -68,7 +68,7 @@ The first thing visitors see is not a hero section—it’s a **kernel-style boo
 ### Apps, games, and utilities
 
 <p align="center">
-  <img src="docs/readme/desktop-apps.png" alt="YZN-OS with Terminal and Paint open" width="920">
+  <img src="<img src="https://yazanmwk.vercel.appdocs/readme/desktop-apps.png" alt="YZN-OS with Terminal and Paint open" width="920">
 </p>
 
 - **YZN Terminal** — Shell-style interface with commands, boot messaging, and room for Easter eggs.
