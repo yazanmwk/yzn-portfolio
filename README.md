@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://yazanmwk.vercel.app/"><strong>Live app on Vercel →</strong></a>
   &nbsp;·&nbsp;
-  <a href="docs/DEVELOPMENT.md">Developer setup</a>
+<img src="https://yazanmwk.vercel.appdocs/DEVELOPMENT.md">Developer setup</a>
 </p>
 
 <p align="center">
