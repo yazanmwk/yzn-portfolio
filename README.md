@@ -10,10 +10,6 @@
   <a href="https://yazanmwk.vercel.app/"><strong>Live app on Vercel →</strong></a>
 </p>
 
-<p align="center">
-  <strong>This page is the public storefront.</strong><br>
-  The full interactive portfolio runs on Vercel.
-</p>
 
 <p align="center">
   <img src="https://yazanmwk.vercel.app/readme/boot-splash.png" alt="YZN-OS boot sequence and logo" width="920">
@@ -88,5 +84,5 @@ Most portfolios optimize for skimming. **YZN-OS** optimizes for curiosity: peopl
 Built as a personal retro OS portfolio — design and interaction inspired by classic Windows and playful UI.
 
 <p align="center">
-  <sub>If this repo helped you, a star is always appreciated.</sub>
+  <sub>If you found this repo interesting, a star is always appreciated.</sub>
 </p>
