@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="<img src="https://yazanmwk.vercel.appdocs/readme/boot-splash.png" alt="YZN-OS boot sequence and logo" width="920">
+  <img src="<img src="https://yazanmwk.vercel.appdocs/public/readme/boot-splash.png" alt="YZN-OS boot sequence and logo" width="920">
 </p>
 
 <p align="center">
