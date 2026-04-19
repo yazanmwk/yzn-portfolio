@@ -2,23 +2,21 @@
 
 <p align="center">
   <a href="https://yazanmwk.vercel.app/" title="Open YZN-OS">
-    <img src="./public/icons/Y-icon.png" alt="YZN-OS logo" width="120">
+    <img src="https://yazanmwk.vercel.app/icons/Y-icon.png" alt="YZN-OS logo" width="120">
   </a>
 </p>
 
 <p align="center">
   <a href="https://yazanmwk.vercel.app/"><strong>Live app on Vercel →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="./docs/DEVELOPMENT.md">Developer setup</a>
 </p>
 
 <p align="center">
   <strong>This page is the public storefront.</strong><br>
-  The full interactive portfolio runs on Vercel; nothing here replaces or blocks that deployment.
+  The full interactive portfolio runs on Vercel.
 </p>
 
 <p align="center">
-  <img src="./docs/readme/boot-splash.png" alt="YZN-OS boot sequence and logo" width="920">
+  <img src="https://yazanmwk.vercel.app/readme/boot-splash.png" alt="YZN-OS boot sequence and logo" width="920">
 </p>
 
 <p align="center">
@@ -55,7 +53,7 @@ The first thing visitors see is not a hero section—it’s a kernel-style boot 
 ### Desktop, wallpaper, and welcome flow
 
 <p align="center">
-  <img src="./docs/readme/desktop-welcome.png" alt="YZN-OS desktop with Welcome window" width="920">
+  <img src="https://yazanmwk.vercel.app/readme/desktop-welcome.png" alt="YZN-OS desktop with Welcome window" width="920">
 </p>
 
 - **Live desktop** — Wallpaper, desktop icons, and a persistent taskbar with clock and window buttons.
@@ -68,7 +66,7 @@ The first thing visitors see is not a hero section—it’s a kernel-style boot 
 ### Apps, games, and utilities
 
 <p align="center">
-  <img src="./docs/readme/desktop-apps.png" alt="YZN-OS with Terminal and Paint open" width="920">
+  <img src="https://yazanmwk.vercel.app/readme/desktop-apps.png" alt="YZN-OS with Terminal and Paint open" width="920">
 </p>
 
 - **YZN Terminal** — Shell-style interface with commands, boot messaging, and room for Easter eggs.
@@ -85,21 +83,9 @@ Most portfolios optimize for skimming. **YZN-OS** optimizes for curiosity: peopl
 
 ---
 
-## Public GitHub vs the live site (Vercel)
-
-- **Vercel** hosts the real Next.js app. Edits to this README or to `docs/` do not change how Vercel builds or serves the site.
-- **GitHub** always shows a file browser above the README on a public repository.
-- If you need strangers to see documentation only, use a private code repo or a small public README-only repo.
-
-Set **GitHub → Repository → Settings → General → Website** to [https://yazanmwk.vercel.app/](https://yazanmwk.vercel.app/) so the About panel points people to the app first.
-
----
-
 ## Credits
 
-Built as a personal retro OS portfolio — design and interaction inspired by classic Windows and the joy of playful UI.
-
----
+Built as a personal retro OS portfolio — design and interaction inspired by classic Windows and playful UI.
 
 <p align="center">
   <sub>If this repo helped you, a star is always appreciated.</sub>
