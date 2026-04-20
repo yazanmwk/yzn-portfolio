@@ -73,15 +73,6 @@ The first thing visitors see is not a hero section—it’s a kernel-style boot 
 
 ---
 
-## Why it exists
-
-Most portfolios optimize for skimming. **YZN-OS** optimizes for curiosity: people click icons, read fake system copy, and feel like they discovered your work instead of being handed a PDF.
-
----
-
-## Credits
-
-Built as a personal retro OS portfolio — design and interaction inspired by classic Windows and playful UI.
 
 <p align="center">
   <sub>If you found this repo interesting, a star is always appreciated.</sub>
